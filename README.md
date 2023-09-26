@@ -3,9 +3,9 @@
 ## C++
 
 ### 1. General
-- Arithmetic Operation
-- Simple Interest
-- Interchange 2 Variable without Third Variable
+- 1 Arithmetic Operation
+- 2 Simple Interest
+- 3 Interchange 2 Variable without Third Variable
 - Odd or Even
 - Positive, Negative or Zero
 - If N is Divisible by X
@@ -18,28 +18,8 @@
 - Palindrome
 - 1-2+3-4……N terms (Print and Value)
 - x + x2/2! + x3/3! + x4/4!……..xn/n! (Print and Value)
-- Print Pattern - 
-```
-1
-1 2
-1 2 3
-1 2 3 4
-```
-- Print Pattern - 
-```
-   1
-  1 2
- 1 2 3
-1 2 3 4
-```
-- Print Pattern - 
-```
-      A
-    A B A
-  A B C B A
-A B C D C B A
-```
-
+- Prime or not
+- Sum of squares of first n natural numbers
 
 ### 2. Array
 - Initialize Array
