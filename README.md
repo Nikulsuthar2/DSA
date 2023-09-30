@@ -27,8 +27,15 @@
 - Sum of All Element in Array
 - Sort Array in Ascending Order
 - Find Frequency of Each Element
+- Given a collection of intervals, merge all overlapping intervals
+- Find the contiguous sub-array(containing at least one number) which
+has the maximum sum and return its sum.
+
+### 2. 2D Array
+- Initialize 2D Array
 - Print Matrics (2D Array)
 - Matrics Addition
 - Matrics Multiplication
 - Transpose of Matrices
 - Check if Matrix is identity or not
+- Matrix 90 degree (clockwise) rotation
