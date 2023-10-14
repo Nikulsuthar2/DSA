@@ -19,7 +19,22 @@
 - 1-2+3-4……N terms (Print and Value)
 - x + x2/2! + x3/3! + x4/4!……..xn/n! (Print and Value)
 - Prime or not
-- Sum of squares of first n natural numbers
+- 17 Sum of squares of first n natural numbers
+- 18 Decimal to Binary
+- 19 Binary to Decimal
+- 20 Decimal to Octal
+- 21 Decimal to Hexadecimal
+- 22 Binary to Octal
+- 23 Binary to Hexadecimal
+- 24 Octal to Decimal
+- 25 Octal to Binary
+- 26 Octal to Hexadecimal
+- 27 Hexadecimal to Decimal
+- 28 Hexadecimal to Binary
+- 29 Hexadecimal to Octal
+
+
+
 
 ### 2. Array
 - Initialize Array
@@ -28,8 +43,9 @@
 - Sort Array in Ascending Order
 - Find Frequency of Each Element
 - Given a collection of intervals, merge all overlapping intervals
-- Find the contiguous sub-array(containing at least one number) which
-has the maximum sum and return its sum.
+- Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
+- 30 Merge Sort Array
+- 31 Move Zeros
 
 ### 2. 2D Array
 - Initialize 2D Array
