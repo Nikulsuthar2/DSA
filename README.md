@@ -44,6 +44,10 @@
 - 5 Find Frequency of Each Element
 - 6 Given a collection of intervals, merge all overlapping intervals
 - 7 Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
+- 8 Reverse an Array
+- 9 Swap Alternate
+- 10 Find Unique
+- 11 Find All Duplicate
 - 30 Merge Sort Array
 - 31 Move Zeros
 - 32 Max Rectangle Area of Array
@@ -77,6 +81,17 @@
 
 ### Algorithms
 
+- #### Searching
+
+1. Linear Search
+2. Binary Search
+
+- #### Sorting
+
 ### LeetCode Problems
 - 191 No Of 1 Bit
+- 231 Power of Two
+- 442 Find All Duplicate in an Array
+- 1009 Complement of base 10 int
+- 1207 Unique Number of Occurrence
 - 1281 Product & Sum of Digits
