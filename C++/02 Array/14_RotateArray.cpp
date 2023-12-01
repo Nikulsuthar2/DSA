@@ -18,7 +18,7 @@ void printArray(vector<int> arr) {
 }
 
 int main(){
-    vector<int> arr = {1,7,9,11};
-    int k = 2;
-    printArray(rotateArray(arr,2));
+    vector<int> arr = {1,2,3,4,5,6,7};
+    int k = 3;
+    printArray(rotateArray(arr,3));
 }
