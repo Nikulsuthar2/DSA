@@ -32,6 +32,7 @@
 - 27 Hexadecimal to Decimal
 - 28 Hexadecimal to Binary
 - 29 Hexadecimal to Octal
+- 30 GCD (recursive & iterative)
 
 
 
